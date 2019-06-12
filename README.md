@@ -3,7 +3,7 @@
 [![Build Status](https://travis-ci.org/Chronyms/Qitsune.svg?branch=dev_v2)](https://travis-ci.org/Chronyms/Qitsune)
 [![StyleCI](https://github.styleci.io/repos/101512980/shield?branch=dev_v2)](https://github.styleci.io/repos/101512980)
 [![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/chronyms/qitsune/badges/quality-score.png?b=dev_v2)](https://scrutinizer-ci.com/g/chronyms/qitsune/?branch=dev_v2)
-[![Build Status](https://scrutinizer-ci.com/g/chronyms/qitsune/badges/build.png?b=dev_v2)](https://scrutinizer-ci.com/g/chronyms/qitsune/build-status/dev_v2)
+[![Build Status](https://scrutinizer-ci.com/g/chronyms/qitsune/badges/build.png?b=dev_v2)](https://scrutinizer-ci.com/g/chronyms/qitsune/build-status/dev_v2) [![Greenkeeper badge](https://badges.greenkeeper.io/Vento-Nuenenen/Qitsune.svg)](https://greenkeeper.io/)
 
 
 | Qitsune built on  |
